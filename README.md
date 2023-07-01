@@ -1,5 +1,7 @@
-# 💫 About Me:
-- 👋 Hi, I'm Shoaib Khan.
+<!-- Your Name and Introduction -->
+<h1 align="center">👋 Hi, I'm Shoaib Khan</h1>
+<h3 align="center">A passionate web3 and Blockchain Developer</h3>
+
 - 🔭 I'm currently working on web3 and blockchain development.
 - 🌱 I'm currently learning about the latest advancements in decentralized technologies.
 - 👯 I'm looking to collaborate on interesting blockchain projects.
