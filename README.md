@@ -6,7 +6,6 @@
 - 🌱 I'm currently learning about the latest advancements in decentralized technologies.
 - 👯 I'm looking to collaborate on interesting blockchain projects.
 - 🤝 I'm looking for help with exploring new web3 frameworks and tools.
-- 💬 Ask me about blockchain development, smart contracts, or decentralized applications.
 - ⚡ Fun fact: I believe that blockchain has the potential to revolutionize various industries!
 
 ## 🌐 Socials:
