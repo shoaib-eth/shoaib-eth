@@ -34,9 +34,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShoaibDev69&theme=tokyonight&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShoaibDev69&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=ShoaibDev69&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
