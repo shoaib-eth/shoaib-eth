@@ -8,25 +8,22 @@
 - ⚡ Fun fact : I believe that blockchain has the potential to revolutionize various industries!
 
 ## 🌐 Socials:
-![icons8-linkedin-logo-48](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/17060f7d-df46-458d-a3a9-08f72cf1a0c8),![link](https://linkedin.com/in/shoaib-khan-649599273)
+[![icons8-linkedin-logo-48](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/17060f7d-df46-458d-a3a9-08f72cf1a0c8)](https://linkedin.com/in/shoaib-khan-649599273)
 ![icons8-twitterx-50](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/2c5d5071-4af4-4966-b83e-7e199b5c78f9)
-# 💻 Tech Stack:
-![HTML](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/47a3938a-918f-4d28-b989-d188799a00c3)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=azure-devops&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three-dot-js&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+## <img src="https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/e131890e-2691-453c-908f-39a3517bfd41" width="50" height="50"> *Tech Stack*
+![HTML](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/47a3938a-918f-4d28-b989-d188799a00c3)
+![CSS](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/8f84d5d7-bf93-4c29-b032-39a10243d121)
+![JavaScript](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/642608d1-d800-4953-a580-3832aaf28440)
+![ReactJS](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/3313b54f-f019-4185-af1b-3f75ce6376e7)
+![NodeJS](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/22087653-62dc-4b69-b39c-c8ed2af74c42)
+![TypeScript](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/599dd6bc-aef0-446b-9ed0-ae3fe64c8b3c)
+![Solidity](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/05f1ba4c-0bf0-4266-8033-027d3e3290b5)
+![GIT](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/722203b6-f994-4a5d-8f4a-d87c070c4c75)
+![GitHub](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/91e600ac-ef48-4234-8d14-43da7f2a79d5)
+![Tailwind CSS](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/02f2509e-a226-4641-9216-9f9b14de0945)
+![Canva](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/104eba14-fe00-433b-9376-3975dd420b56)
+![Figma](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/4c1dd311-5782-45ec-9c71-6a1c8e1a646b)
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShoaibDev69&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShoaibDev69&theme=tokyonight&hide_border=false)
