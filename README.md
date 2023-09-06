@@ -11,7 +11,7 @@
 ![icons8-linkedin-logo-48](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/17060f7d-df46-458d-a3a9-08f72cf1a0c8),![link](https://linkedin.com/in/shoaib-khan-649599273)
 ![icons8-twitterx-50](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/2c5d5071-4af4-4966-b83e-7e199b5c78f9)
 # 💻 Tech Stack:
-![HTML](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/bb0d1240-c963-42d3-84ce-696f0183455e)
+![HTML](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/47a3938a-918f-4d28-b989-d188799a00c3)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
