@@ -8,8 +8,8 @@
 - ⚡ Fun fact : I believe that blockchain has the potential to revolutionize various industries!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shoaib-khan-649599273)
-[![TwitterX](<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 50 50" width="50px" height="50px"><path d="M 11 4 C 7.134 4 4 7.134 4 11 L 4 39 C 4 42.866 7.134 46 11 46 L 39 46 C 42.866 46 46 42.866 46 39 L 46 11 C 46 7.134 42.866 4 39 4 L 11 4 z M 13.085938 13 L 21.023438 13 L 26.660156 21.009766 L 33.5 13 L 36 13 L 27.789062 22.613281 L 37.914062 37 L 29.978516 37 L 23.4375 27.707031 L 15.5 37 L 13 37 L 22.308594 26.103516 L 13.085938 13 z M 16.914062 15 L 31.021484 35 L 34.085938 35 L 19.978516 15 L 16.914062 15 z"/></svg>)
+![icons8-linkedin-logo-48](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/17060f7d-df46-458d-a3a9-08f72cf1a0c8),![link](https://linkedin.com/in/shoaib-khan-649599273)
+![icons8-twitterx-50](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/2c5d5071-4af4-4966-b83e-7e199b5c78f9)
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
