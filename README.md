@@ -18,6 +18,7 @@
 ![ReactJS](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/3313b54f-f019-4185-af1b-3f75ce6376e7)
 ![NodeJS](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/22087653-62dc-4b69-b39c-c8ed2af74c42)
 ![TypeScript](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/599dd6bc-aef0-446b-9ed0-ae3fe64c8b3c)
+![NextJS](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/cbb56bd7-b170-4aec-9ffe-d229abee751e)
 ![Solidity](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/05f1ba4c-0bf0-4266-8033-027d3e3290b5)
 ![GIT](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/722203b6-f994-4a5d-8f4a-d87c070c4c75)
 ![GitHub](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/91e600ac-ef48-4234-8d14-43da7f2a79d5)
