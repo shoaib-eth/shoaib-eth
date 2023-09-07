@@ -24,6 +24,7 @@
 ![Tailwind CSS](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/02f2509e-a226-4641-9216-9f9b14de0945)
 ![Canva](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/104eba14-fe00-433b-9376-3975dd420b56)
 ![Figma](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/4c1dd311-5782-45ec-9c71-6a1c8e1a646b)
+![C-Language](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/789ef4e6-50ad-42e2-9685-2177e22e0189)
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShoaibDev69&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShoaibDev69&theme=tokyonight&hide_border=false)
