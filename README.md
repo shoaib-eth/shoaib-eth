@@ -5,8 +5,7 @@
 - 🌱 I'm currently learning about the latest advancements in decentralized technologies.
 - 👯 I'm looking to collaborate on interesting blockchain projects.
 - 🤝 I'm looking for help with exploring new web3 frameworks and tools.
-- ⚡ Fun fact : I believe that blockchain has the potential to revolutionize various industries!
-
+  
 ## 🌐 Socials:
 [![icons8-linkedin-logo-48](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/17060f7d-df46-458d-a3a9-08f72cf1a0c8)](https://linkedin.com/in/shoaib-khan-649599273)
 ![icons8-twitterx-50](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/2c5d5071-4af4-4966-b83e-7e199b5c78f9)
