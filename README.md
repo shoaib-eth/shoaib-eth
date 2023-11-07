@@ -7,7 +7,8 @@
 - 🤝 I'm looking for help with exploring new web3 frameworks and tools.
   
 ## 🌐 Socials:
-[![icons8-linkedin-logo-48](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/17060f7d-df46-458d-a3a9-08f72cf1a0c8)](https://linkedin.com/in/shoaib-khan-649599273)
+[![icons8-linkedin-logo-48](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/17060f7d-df46-458d-a3a9-08f72cf1a0c8)](https://linkedin.com/in/shoaib-khan-649599273 target="_blank")
+[LinkedIn Profile](https://linkedin.com/in/shoaib-khan-649599273)
 ![icons8-twitterx-50](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/2c5d5071-4af4-4966-b83e-7e199b5c78f9)
 
 ## <img src="https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/e131890e-2691-453c-908f-39a3517bfd41" width="50" height="50"> *Tech Stack*
