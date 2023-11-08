@@ -3,7 +3,6 @@
 </div>
 
 <h1 align="center">👋 Hi, I'm Shoaib Khan</h1>
-![GiHub Profile Header](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/9611797e-dd84-4395-b33d-e6f19b323d32)
 
 <h3 align="center">A passionate web3 and Blockchain Developer</h3>
 
