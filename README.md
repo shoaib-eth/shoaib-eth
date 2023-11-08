@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="![top-it-outsourcing-company-in-kochi](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/fc6e8dec-5b0b-438e-ba99-85c16821cfa5)
-" width="300"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <h1 align="center">👋 Hi, I'm Shoaib Khan</h1>
