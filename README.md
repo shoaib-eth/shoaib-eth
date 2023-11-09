@@ -1,8 +1,6 @@
 
 ![ShoaibDev69](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/8c4701cc-9991-42f3-ac04-87e9dec4fe5b)
 
-<h1 align="center">👋 Hi, I'm Shoaib Khan</h1>
-
 <h3 align="center">A passionate web3 and Blockchain Developer</h3>
 
 - 🔭 I'm currently working on web3 and blockchain development.
