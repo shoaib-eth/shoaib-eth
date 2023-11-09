@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+[![ShoaibDev69](![ShoaibDev69](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/d64a6ef5-10bb-4ff8-ad73-65229158b1c1)
+)]
 
 <h1 align="center">👋 Hi, I'm Shoaib Khan</h1>
 
