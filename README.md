@@ -1,5 +1,5 @@
-[![ShoaibDev69](![ShoaibDev69](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/d64a6ef5-10bb-4ff8-ad73-65229158b1c1)
-)]
+
+![ShoaibDev69](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/8c4701cc-9991-42f3-ac04-87e9dec4fe5b)
 
 <h1 align="center">👋 Hi, I'm Shoaib Khan</h1>
 
