@@ -30,7 +30,6 @@
 ![C++ Language](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/ed2a2bae-fab8-441a-b903-779a36d9e181)
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShoaibDev69&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShoaibDev69&theme=tokyonight&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShoaibDev69&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
