@@ -3,7 +3,6 @@
 
 <h3 align="center">A passionate Blockchain Developer</h3>
 
-- 🔭 I'm currently working on web3 and blockchain development.
 - 🌱 I'm currently learning about the latest advancements in decentralized technologies.
 - 👯 I'm looking to collaborate on interesting blockchain projects.
 - 🤝 I'm looking for help with exploring new web3 frameworks and tools.
