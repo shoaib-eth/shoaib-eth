@@ -1,5 +1,6 @@
 
-![ShoaibDev69](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/8c4701cc-9991-42f3-ac04-87e9dec4fe5b)
+![Linkdin Header](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/6e79a9d3-c630-42e9-b0c6-7a1b216e5a6d)
+
 
 <h3 align="center">A passionate Blockchain Developer</h3>
 
