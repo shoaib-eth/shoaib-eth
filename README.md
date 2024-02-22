@@ -2,7 +2,8 @@
 ![Linkdin Header](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/6e79a9d3-c630-42e9-b0c6-7a1b216e5a6d)
 
 
-<h3 align="center">A passionate Blockchain Developer</h3>
+<h1 align="center">👋 Hey, I'm Shoaib</h1>
+<h3 align="Center">🌐 Blockchain Explorer | Turning Ideas into Decentralized Realities! ✨</h3>
 
 - 🌱 I'm currently learning about the latest advancements in decentralized technologies.
 - 👯 I'm looking to collaborate on interesting blockchain projects.
