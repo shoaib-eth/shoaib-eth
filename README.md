@@ -3,7 +3,7 @@
 
 
 <h1 align="center">👋 Hey, I'm Shoaib</h1>
-<h3 align="Center">🌐 Blockchain Explorer | Turning Ideas into Decentralized Realities! ✨</h3>
+<h3 align="Center">Turning Ideas into Decentralized Realities! ✨</h3>
 
 - 🌱 I'm currently learning about the latest advancements in decentralized technologies.
 - 👯 I'm looking to collaborate on interesting blockchain projects.
