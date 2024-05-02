@@ -1,5 +1,6 @@
 
-![Linkdin Header](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/6e79a9d3-c630-42e9-b0c6-7a1b216e5a6d)
+![Linkdin Header (2)](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/49bf73ce-71d9-4582-b7d3-20e4b8fd5a0d)
+
 
 
 <h1 align="center">👋 Hey, I'm Shoaib</h1>
