@@ -18,18 +18,16 @@
 
 
 ## <img src="https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/e131890e-2691-453c-908f-39a3517bfd41" width="50" height="50"> *Tech Stack*
-![HTML](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/47a3938a-918f-4d28-b989-d188799a00c3)
-![CSS](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/8f84d5d7-bf93-4c29-b032-39a10243d121)
+![icons8-ethereum-70](https://github.com/user-attachments/assets/43576679-8cea-448b-87c7-6885a34d3765)
+![icons8-solidity-70](https://github.com/user-attachments/assets/ce347749-1051-4147-ab97-66a24ed5df4a)
+![icons8-rust-70](https://github.com/user-attachments/assets/46a32464-1ecd-474e-8185-6c11901fa7aa)
 ![JavaScript](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/642608d1-d800-4953-a580-3832aaf28440)
-![ReactJS](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/3313b54f-f019-4185-af1b-3f75ce6376e7)
-![TypeScript](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/599dd6bc-aef0-446b-9ed0-ae3fe64c8b3c)
-![NextJS](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/cbb56bd7-b170-4aec-9ffe-d229abee751e)
-![Solidity](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/05f1ba4c-0bf0-4266-8033-027d3e3290b5)
+![icons8-chainlink-69](https://github.com/user-attachments/assets/437066cb-328d-47c0-a9cd-cff24607fabd)
 ![GIT](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/722203b6-f994-4a5d-8f4a-d87c070c4c75)
-![GitHub](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/91e600ac-ef48-4234-8d14-43da7f2a79d5)
+![icons8-ubuntu-70](https://github.com/user-attachments/assets/433b6671-3949-4677-a842-9d21e676fa62)
+![icons8-metamask-logo-70](https://github.com/user-attachments/assets/90e6e7fc-b826-4a4f-a385-599ee8a6a51f)
+![icons8-open-source-70](https://github.com/user-attachments/assets/faa13bf4-32f8-4a21-9d74-f0c7ef9f72b6)
 ![Canva](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/104eba14-fe00-433b-9376-3975dd420b56)
-![C-Language](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/789ef4e6-50ad-42e2-9685-2177e22e0189)
-![C++ Language](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/ed2a2bae-fab8-441a-b903-779a36d9e181)
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shoaib-eth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shoaib-eth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
