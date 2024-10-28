@@ -31,10 +31,10 @@
 ![C-Language](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/789ef4e6-50ad-42e2-9685-2177e22e0189)
 ![C++ Language](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/ed2a2bae-fab8-441a-b903-779a36d9e181)
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShoaibDev69&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShoaibDev69&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shoaib-eth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shoaib-eth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=ShoaibDev69&icon=0&color=0)
+![Visitor Count](https://visitcount.itsvg.in/api?id=shoaib-eth&icon=0&color=0)
 
