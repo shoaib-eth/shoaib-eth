@@ -28,6 +28,7 @@
 ![icons8-metamask-logo-70](https://github.com/user-attachments/assets/90e6e7fc-b826-4a4f-a385-599ee8a6a51f)
 ![icons8-open-source-70](https://github.com/user-attachments/assets/faa13bf4-32f8-4a21-9d74-f0c7ef9f72b6)
 ![Canva](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/104eba14-fe00-433b-9376-3975dd420b56)
+
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shoaib-eth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shoaib-eth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
