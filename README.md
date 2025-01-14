@@ -12,7 +12,7 @@
   
 ## 🌐 Socials:
 [![LinkedIn](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/bddb40bf-af2e-4df1-929d-0165135c2729)](https://www.linkedin.com/in/shoaib-khan-649599273/)
-![icons8-twitterx-60](https://github.com/ShoaibDev69/ShoaibDev69/assets/124503086/c47ca51e-162f-4a1c-836b-1c2184aeba93)
+![icons8-twitterx-60](https://github.com/shoaib-eth/shoaib-eth/assets/124503086/c47ca51e-162f-4a1c-836b-1c2184aeba93)
 
 
 
